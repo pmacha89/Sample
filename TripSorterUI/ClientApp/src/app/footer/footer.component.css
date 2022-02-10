@@ -1,0 +1,9 @@
+.footer{
+    background-color:aquamarine;
+    text-align: right;
+    text-decoration: wavy;
+}
+.clear{
+    margin-top: 2px;
+    clear:both;
+}
